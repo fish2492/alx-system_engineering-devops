@@ -11,3 +11,4 @@
 10. Deletes regular files(not dir.) with .js in curr. dir and subfolders.
 11. Counts the num of dir. and subdir. in the curr. dir(curr. and parent dir. not included, hidden dir. is included.
 12. Displays 10 newest files in the dir(one file/line, sorted form newest to the oldest).
+13. Takes a list of words as i/p and prints only words that appear exactly once(i/p and o/p should be oneline and oneword, words should be sorted.
