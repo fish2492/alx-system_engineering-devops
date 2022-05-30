@@ -20,3 +20,4 @@
 19.  Replace all chx A and c from i/p to Z and e respectively.
 20. Removes all letters c and C form i/p.
 21. Reverses the i/p.
+22. Display all users and their home dir. sorted by users.
