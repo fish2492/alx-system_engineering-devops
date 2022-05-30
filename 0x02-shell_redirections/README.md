@@ -18,3 +18,4 @@
 17. Display all the lines in the file /etc/passwd that don't contain the pattern bin".
 18. Display all the lines of the file /etc/ssh/sshdconfig starting with a letter.
 19.  Replace all chx A and c from i/p to Z and e respectively.
+20. Removes all letters c and C form i/p
