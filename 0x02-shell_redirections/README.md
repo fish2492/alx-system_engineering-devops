@@ -22,3 +22,4 @@
 21. Reverses the i/p.
 22. Display all users and their home dir. sorted by users.
 23. Finds all empty files and dir. in the curr. dir and all subdir(only names not entire path, hidden files should be listed, onefile name/line, listing should end with a new line.
+24. List all the files with .gif in the curr. dir and subdir(hidden files should be listed, only regular files(not dir)should be listed, names of files should be displayed without their extesions, files should be sorted by byte values but case insensitive).
