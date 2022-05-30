@@ -9,3 +9,4 @@
 8. Writes the result of comand ls -la into the file lscwdcontent
 9. Duplicates the last line of the file iacta
 10. Deletes regular files(not dir.) with .js in curr. dir and subfolders.
+11. Counts the num of dir. and subdir. in the curr. dir(curr. and parent dir. not included, hidden dir. is included.
