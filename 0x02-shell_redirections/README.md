@@ -23,3 +23,5 @@
 22. Display all users and their home dir. sorted by users.
 23. Finds all empty files and dir. in the curr. dir and all subdir(only names not entire path, hidden files should be listed, onefile name/line, listing should end with a new line.
 24. List all the files with .gif in the curr. dir and subdir(hidden files should be listed, only regular files(not dir)should be listed, names of files should be displayed without their extesions, files should be sorted by byte values but case insensitive).
+25. Acoustic
+26. Parses web servers logs in TSV format as i/p and displays the 11 hosts or IPAdresses which did the most requestes(order by num of req.. most active IP or host at the top).
