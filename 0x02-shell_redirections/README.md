@@ -6,3 +6,6 @@
 5. Display a content of the first 10 lines.
 6. Display the third line of a file.
 7. Creates a file and add content.
+8. Writes the result of comand ls -la into the file lscwdcontent
+9. Duplicates the last line of the file iacta
+10. Deletes regular files(not dir.) with .js in curr. dir and subfolders.
