@@ -14,3 +14,4 @@
 13. Takes a list of words as i/p and prints only words that appear exactly once(i/p and o/p should be oneline and oneword, words should be sorted.
 14. Display lines containig the pattern root in the file /etc/passwd.
 15. Display num of lines containing the pattern bin in the file /etc/passwd.
+16. Display lines containing the pattern root and 3 lines after them in the file /etc/passwd.
