@@ -4,3 +4,4 @@
 4. Counts the num of dir. in the PATH.
 5. Script that lists env't variables.
 6. Script that lists all local variables and env't variables, and functions.
+7. Script that creates a new local variable.
