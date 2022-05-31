@@ -8,3 +8,4 @@
 8. Script that creates a new global variable.
 9. Prints the reuslt of addition of 128 with the value stored in the env't variable TRUEKNOWLEDGE.
 10. Prints the result of POWER div by DIVIDE, folowed by new line(POWER and DIVIDE are env't variables).
+11. Displays the result of BREATH to the power of LOVE(LOVE and BREATH are env't varibales).
