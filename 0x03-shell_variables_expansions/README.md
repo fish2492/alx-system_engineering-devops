@@ -14,3 +14,4 @@
 14. Prints a num with two decimal places(the num will be stored in env't variable NUM).
 15. Converts a num form base 10 to 16(the num in base 10 is stored env't varibale DECIMAL).
 16. Encodes and decodes text using the rot13 encryption.
+17. Prints every other line from the input statrting with the first line.
