@@ -11,3 +11,4 @@
 11. Displays the result of BREATH to the power of LOVE(LOVE and BREATH are env't varibales).
 12. Converts a number from base 2 to base 10(The num in base 2 is stored in env't variable BINARY).
 13. Prints all possible comibnations of two letters, except oo.
+14. Prints a num with two decimal places(the num will be stored in env't variable NUM).
