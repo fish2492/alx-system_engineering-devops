@@ -6,3 +6,4 @@
 6. Script that lists all local variables and env't variables, and functions.
 7. Script that creates a new local variable.
 8. Script that creates a new global variable.
+9. Prints the reuslt of addition of 128 with the value stored in the env't variable TRUEKNOWLEDGE.
