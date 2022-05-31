@@ -10,3 +10,4 @@
 10. Prints the result of POWER div by DIVIDE, folowed by new line(POWER and DIVIDE are env't variables).
 11. Displays the result of BREATH to the power of LOVE(LOVE and BREATH are env't varibales).
 12. Converts a number from base 2 to base 10(The num in base 2 is stored in env't variable BINARY).
+13. Prints all possible comibnations of two letters, except oo.
