@@ -9,3 +9,4 @@
 9. Prints the reuslt of addition of 128 with the value stored in the env't variable TRUEKNOWLEDGE.
 10. Prints the result of POWER div by DIVIDE, folowed by new line(POWER and DIVIDE are env't variables).
 11. Displays the result of BREATH to the power of LOVE(LOVE and BREATH are env't varibales).
+12. Converts a number from base 2 to base 10(The num in base 2 is stored in env't variable BINARY).
