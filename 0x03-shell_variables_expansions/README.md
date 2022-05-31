@@ -15,3 +15,4 @@
 15. Converts a num form base 10 to 16(the num in base 10 is stored env't varibale DECIMAL).
 16. Encodes and decodes text using the rot13 encryption.
 17. Prints every other line from the input statrting with the first line.
+18. Adds the two nums stored in the env't variables WATER and STIR and prints the result(WATER is in base water, STIR is in base stir, The reuslt should be in base bestchol.
