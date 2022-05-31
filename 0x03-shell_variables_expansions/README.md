@@ -3,3 +3,4 @@
 3. Add /action to PATH . /action should be the last dir. the shell looks into when looking for a program.
 4. Counts the num of dir. in the PATH.
 5. Script that lists env't variables.
+6. Script that lists all local variables and env't variables, and functions.
