@@ -12,3 +12,4 @@
 12. Converts a number from base 2 to base 10(The num in base 2 is stored in env't variable BINARY).
 13. Prints all possible comibnations of two letters, except oo.
 14. Prints a num with two decimal places(the num will be stored in env't variable NUM).
+15. Converts a num form base 10 to 16(the num in base 10 is stored env't varibale DECIMAL).
