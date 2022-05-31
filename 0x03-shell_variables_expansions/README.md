@@ -7,3 +7,4 @@
 7. Script that creates a new local variable.
 8. Script that creates a new global variable.
 9. Prints the reuslt of addition of 128 with the value stored in the env't variable TRUEKNOWLEDGE.
+10. Prints the result of POWER div by DIVIDE, folowed by new line(POWER and DIVIDE are env't variables).
